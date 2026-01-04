@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="mailto:rai.pragya56@outlook.com">Email</a> •
-  <a href="https://www.linkedin.com/in/pragya-narendra-rai">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pragya-narendra-rai">LinkedIn</a> •
+  <a href="https://esingh16.github.io/pragya-portfolio/">Portfolio</a>
 </p>
 
 ---
@@ -45,7 +46,9 @@
 
 ## 📈 Highlighted projects
 
-> These can be repositories on your GitHub – rename and link them once they exist.
+- 🌐 **Personal Portfolio**  
+  Live portfolio showcasing experience, skills, and projects:  
+  👉 [esingh16.github.io/pragya-portfolio](https://esingh16.github.io/pragya-portfolio/)
 
 - 🚀 **Big Data Alpha Model**  
   Built an equity research framework using R and sentiment data to evaluate returns on Apple, Microsoft, and Alphabet.
@@ -63,6 +66,7 @@
 If you’re working on **treasury, FP&A, ALM, or fintech** problems and want to collaborate, feel free to reach out:
 
 - 📧 `rai.pragya56@outlook.com`  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pragya-narendra-rai)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pragya-narendra-rai)  
+- 🌐 [Portfolio](https://esingh16.github.io/pragya-portfolio/)
 
 > Always open to discussing liquidity, capital structure, and data-driven finance.
