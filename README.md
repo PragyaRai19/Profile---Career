@@ -1,6 +1,3 @@
-Here is an interactive, finance-focused GitHub profile README you can copy into your `README.md` and tweak as needed.[1][2][3]
-
-```markdown
 <!-- Profile header -->
 <h1 align="center">Hi, I'm Pragya 👋</h1>
 <h3 align="center">Liquidity & Treasury Analyst | Finance Technologist</h3>
@@ -69,4 +66,3 @@ If you’re working on **treasury, FP&A, ALM, or fintech** problems and want to 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pragya-narendra-rai)
 
 > Always open to discussing liquidity, capital structure, and data-driven finance.
-```
